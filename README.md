@@ -11,7 +11,7 @@ All you have been given is a folder of raw csv files, which contain information 
 
 The Objective
 
-Connect and transform the raw data
-Build a relational data model
-Created calculated columns and measures with DAX
+Connect and transform the raw data.
+Build a relational data model.
+Created calculated columns and measures with DAX.
 Design an interactive dashboard to visualize the data.
